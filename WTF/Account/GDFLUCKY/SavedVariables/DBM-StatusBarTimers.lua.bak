@@ -1,0 +1,18 @@
+
+DBT_AllPersistentOptions = {
+	["Default"] = {
+		["DBM"] = {
+		},
+	},
+	["BenikUILuckypriest-Lucifron"] = {
+		["DBM"] = {
+			["HugeBarYOffset"] = 16,
+			["FontSize"] = 12,
+			["HugeScale"] = 1,
+			["BarYOffset"] = 16,
+			["Scale"] = 1,
+			["Font"] = "Interface\\AddOns\\ElvUI\\media\\fonts\\Expressway.ttf",
+			["Texture"] = "Interface\\AddOns\\ElvUI_BenikUI\\media\\textures\\Flat.tga",
+		},
+	},
+}

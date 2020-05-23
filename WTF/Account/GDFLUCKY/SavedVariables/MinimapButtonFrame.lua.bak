@@ -1,0 +1,23 @@
+
+MBFDB = {
+	["profileKeys"] = {
+		["Luckypriest - Lucifron"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"LibDBIcon10_AtlasLoot", -- [3]
+				"CT_MinimapButton", -- [4]
+				"LibDBIcon10_DBM", -- [5]
+				"LibDBIcon10_NovaWorldBuffs", -- [6]
+				"LibDBIcon10_Questie", -- [7]
+				"LibDBIcon10_WeakAuras", -- [8]
+				"WIM3MinimapButton", -- [9]
+				"LibDBIcon10_Details", -- [10]
+				"LibDBIcon10_DetailsStreamer", -- [11]
+			},
+		},
+	},
+}

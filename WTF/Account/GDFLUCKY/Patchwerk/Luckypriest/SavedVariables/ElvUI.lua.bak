@@ -1,0 +1,8 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/luaerror on", -- [1]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

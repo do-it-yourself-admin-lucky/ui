@@ -1,0 +1,2 @@
+
+SLE_ArmoryDB = nil

@@ -1,0 +1,63 @@
+
+CliqueDB = nil
+CliqueDB3 = {
+	["char"] = {
+		["Luckypriest - Lucifron"] = {
+			["alerthidden"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Luckypriest - Lucifron"] = "Luckypriest - Lucifron",
+	},
+	["profiles"] = {
+		["Luckypriest - Lucifron"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON1",
+					["spellSubName"] = "Rank 4",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135907,
+					["spell"] = "Flash Heal",
+				}, -- [3]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON2",
+					["spellSubName"] = "Rank 4",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135916,
+					["spell"] = "Heal",
+				}, -- [4]
+				{
+					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON3",
+					["spellSubName"] = "Rank 9",
+					["sets"] = {
+						["default"] = true,
+					},
+					["icon"] = 135953,
+					["spell"] = "Renew",
+				}, -- [5]
+			},
+		},
+	},
+}
