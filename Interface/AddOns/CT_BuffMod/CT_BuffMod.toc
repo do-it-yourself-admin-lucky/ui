@@ -1,0 +1,12 @@
+## Interface: 11304
+## Version: 8.3.0.8
+## Title: CT_BuffMod |cFF333333(Classic)
+## Notes: Customizable buff display.
+## DefaultState: Enabled
+## SavedVariables: CT_BuffModOptions
+## Dependencies: CT_Library
+
+CT_BuffMod.xml
+CT_BuffMod.lua
+localization.lua
+Bindings.xml

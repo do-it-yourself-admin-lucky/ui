@@ -1,0 +1,9 @@
+## Interface: 11304
+## Version: 8.3.0.7
+## Title: CT_Timer |cFF333333(Classic)
+## Notes: Shows a timer that counts both up and down.
+## DefaultState: Enabled
+## SavedVariables: CT_TimerOptions
+## Dependencies: CT_Library
+
+CT_Timer.xml

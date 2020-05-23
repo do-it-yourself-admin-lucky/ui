@@ -1,0 +1,9 @@
+## Interface: 11304
+## Version: 8.2.5.6
+## Title: CT_PartyBuffs |cFF333333(Classic)
+## Notes: Shows buffs at party member frames.
+## DefaultState: Enabled
+## SavedVariables: CT_PartyBuffsOptions
+## Dependencies: CT_Library
+
+CT_PartyBuffs.xml

@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: |cff1784d1ElvUI |rQuestXP
+## Author: Caedis
+## Version: 1.0.0
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+Libraries\LibQuestXP\LibQuestXP.xml
+Core.lua

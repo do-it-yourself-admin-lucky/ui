@@ -1,0 +1,9 @@
+## Interface: 11304
+## Version: 8.2.0.4
+## Title: CT_Viewport |cFF333333(Classic)
+## Notes: Allows you to change the rendered world's size.
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: CT_Viewport_Saved
+## Dependencies: CT_Library
+
+CT_Viewport.xml

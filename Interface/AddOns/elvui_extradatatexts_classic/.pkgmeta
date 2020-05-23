@@ -1,0 +1,5 @@
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+package-as: ElvUI_ExtraDataTexts_Classic

@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file='portrait.lua'/>
+	<Script file='infopanel.lua'/>
+	<Script file='health.lua'/>
+	<Script file='power.lua'/>
+	<Script file='targetglow.lua'/>
+	<Script file='castbar.lua'/>
+	<Script file='restingindicator.lua'/>
+	<Script file='tags.lua'/>
+	<!--<Script file='roleIcons.lua'/>-->
+	<Script file='classbars.lua'/>
+	<Script file='aurabars.lua'/>
+</Ui>

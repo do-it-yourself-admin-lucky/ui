@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: |cff1784d1ElvUI |rAura Bars Mover |cff1784d1Classic|r
+## Author: Darth Predator & Merathilis
+## Version: 0.1
+## Notes: Moveble unit aura bars for |cff1784d1ElvUI|r.
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+core.lua
+options.lua

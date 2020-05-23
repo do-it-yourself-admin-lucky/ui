@@ -1,0 +1,87 @@
+v1.12 - Mar 19 2020
+*Fixed Volume up/down mouseover
+
+v1.11 - Feb 24 2020
+*Complied to latest ElvUI options changes
+*Update and clean Dashboard options
+*Set min ElvUI version to 1.22
+
+v1.10 - Jan 31 2020
+*Fixed portrait errors
+*Set ElvUI min version to 1.211
+*License update
+
+v1.09 - Jan 16 2020
+*Fix a tooltip error
+*Comment out START_TIMER. It may cause errors
+*Set ElvUI min version to 1.20
+
+v1.08 - Dec 14 2019
+*Follow ElvUI fixes for Battleground errors
+*toc update for the new patch
+*Set min ElvUI version to 1.19
+
+v1.07
+*Remove outdated stuff
+*Style 10 Actionbars
+
+v1.06
+*Remove VAT profile
+*Disable itemQualityBorderColor during install
+*Style/Skin Spy addon
+*dirty Aurabars fix
+*Fix OpenMailFrame style
+*Set ElvUI min compatible version to 1.15
+
+v1.05
+*Fixed mailframe style/shadow glitch
+*Fixed issue #10 - chat toggle will work even when shift is pressed while hovering over button
+*Fixed the tooltip error for good this time
+*Fps tweaks
+*Control the tooltip update
+
+v1.04
+*Better button behavior (shift+Click). Credit: Demonik. This may also fix #10
+*Fix Mail Datatext. Credit: Runew0lf
+*Better Zygor skinning
+*Updated donor list. Thank you Joerg <3
+*Removed Overlayed Portraits Alpha option. It's in ElvUI now
+*Added the overlayAlpha setting in the install
+*Default settings cleanup
+*Added Backdrop toggle option for Detached Portraits (Player/Target)
+*Added XToLevel skin/style
+*Prevent an error from popping in WorldStateScoreFrame.backdrop
+
+v1.03
+*Styled the QuestTimerFrame
+*Removed AddonSkins BugReportFrame styling
+*Enabled FlightMode (thurin)
+*Support for the forthcoming Nuts & Bolts Classic
+*Disable tooltip mods if TinyTooltip is enabled
+*Added Zygor skin/style (thurin)
+*Add additional check for frame.backdrop's (Merathilis)
+*New: The Chat Edit box can now also be positioned either under Actionbar1 or Actionbar2 backdrops. (user request)
+*Enabled Professions Dashboard. Click on professions is currently disabled
+*Various frame styling fixes
+*Install adjustments
+
+v1.021
+*Fixed BenikUI Shadows that caused issues on Unitframes. (Credit: Azilroka)
+*Updated the donor list. Thank you Christian <3
+
+v1.02
+*Since ElvUI 1.06 has enabled skins, BenikUI tried to style them all again.
+*Removed more skins/styles/mods that are not in WoW Classic.
+*Fixed target buffs/debuffs timers
+*Added the Talent frame in the Game Menu
+
+v1.01
+*Fixed BigWigs profile (thurin)
+*BenikUI Classic where needed (thurin)
+*Fixed and re enabled BenikUI Close button
+*Removed the broken fade animation from Chat Edit Box
+*Replaced the LFG button (L) with the (S - Status) button. Includes: AFK, DND and Reload ui (while Shift pressed just in case)
+*Added support Location Plus Classic
+
+v1.00
+Initial release

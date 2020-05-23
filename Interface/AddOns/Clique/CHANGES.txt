@@ -1,0 +1,12 @@
+tag 02fae18dc759c40c8071627021839bc271257c7d v1.0.3-classic
+Author:	Jim Whitehead <jnwhiteh@gmail.com>
+Date:	Tue Sep 3 07:56:39 2019 +0200
+
+Tagging v1.0.3-classic
+
+commit 553c5d58ee393eadd459caffdda114f92855f3ad
+Author: Jim Whitehead <jnwhiteh@gmail.com>
+Date:   Tue Sep 3 07:56:15 2019 +0200
+
+    Update version for classic
+

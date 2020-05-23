@@ -1,0 +1,29 @@
+<Ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Frame.lua" />
+	<Frame name="Anzeige" parent="UIParent" toplevel="true" enableMouse="true">
+		<Size x="424" y="105" />
+		<Anchors>
+			<Anchor point="CENTER" x="139" y="238" />
+		</Anchors>
+		<TitleRegion setAllPoints="true">
+			<Size>
+				<AbsDimension x="0" y="30" />
+			</Size>
+			<Anchors>
+				<Anchor point="TOPLEFT" />
+				<Anchor point="TOPRIGHT" />
+			</Anchors>
+		</TitleRegion>
+		<Backdrop bgFile="Interface\DialogFrame\UI-DialogBox-Background" edgeFile="Interface\DialogFrame\UI-DialogBox-Border" tile="true">
+			<BackgroundInsets>
+				<AbsInset left="11" right="12" top="12" bottom="11" />
+			</BackgroundInsets>
+			<TileSize>
+				<AbsValue val="32" />
+			</TileSize>
+			<EdgeSize>
+				<AbsValue val="32" />
+			</EdgeSize>
+		</Backdrop>
+	</Frame>
+</Ui>

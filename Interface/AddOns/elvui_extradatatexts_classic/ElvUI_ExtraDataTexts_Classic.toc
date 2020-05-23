@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: |cff1784d1ElvUI |rExtraDataTexts
+## Author: Caedis
+## Version: 1.0.2
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+oUFTags\load_ouftags.xml
+Datatexts\load_datatexts.xml
+Datatexts\stats\load_stats.xml

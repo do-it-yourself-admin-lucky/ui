@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: LibQuestXP
+## Author: MrFox
+## Email: gyussz@live.com
+## Version: 1.0.3
+## Notes: Records quest events
+## DefaultState: Enabled
+## LoadOnDemand: 0
+# SavedVariables: QuestRecordGlobalDB
+
+LibQuestXP.xml

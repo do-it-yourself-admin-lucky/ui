@@ -1,0 +1,17 @@
+1.03 - Feb 24 2020
+*LibTourist update to v1.13.3
+*Fixed the options
+
+1.02 - Dec 10 2019
+*Fix a WorldMap frame glitch. Credit: Crum
+*Re enable Tooltip options. Should have done it before, no one cared :P
+*Fixed Coords creation by not using Blizz api that has a mem leak.
+*toc update for the new patch
+*LibTourist update to alpha4
+
+1.01
+*LibTourist updated for Classic
+*Tooltip re enabled. Credit: deathcore001
+
+1.00
+*Initial release for WoW Classic
